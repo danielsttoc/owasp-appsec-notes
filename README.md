@@ -60,6 +60,10 @@ owasp-appsec-notes/
 - Writing structured security notes
 - Connecting lab learning to real-world secure development
 
+## Screenshots
+<img width="2438" height="929" alt="image" src="https://github.com/user-attachments/assets/60d2c31b-66e6-401f-bc04-f7ba9359c59a" />
+
+
 ## Disclaimer
 
 This repository is for education, revision and portfolio purposes only. Any testing described here is based on legal lab environments such as SecureFlag, intentionally vulnerable applications or personal systems I own.
